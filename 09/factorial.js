@@ -1,1 +1,3 @@
-var factorial = function(n){ 
+function factorial(num){ 
+	
+}
